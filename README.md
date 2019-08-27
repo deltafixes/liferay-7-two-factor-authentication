@@ -25,6 +25,7 @@ Purpose of this plugin is to add an extra security layer for your Liferay Portal
 3. Put Two Factor Config portlet on configuration page.
 
 ![03_put_config](https://user-images.githubusercontent.com/27973508/63684138-cc5e9900-c819-11e9-99e2-0f1a7dfabf41.jpg)
+
 4. You can set page permission as you want, so that only intended user can have access to this feature.
 
 5. User can enable/disable Two Factor authentication using below screen.
