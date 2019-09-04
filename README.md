@@ -3,10 +3,8 @@ Purpose of this plugin is to add an extra security layer for your Liferay Portal
 
 ## Environment
 1. Liferay 7.0 DXP 
-2. Liferay 7.0 CE-GA5
-3. Liferay 7.1 CE-GA1
-4. Liferay 7.1 CE-GA2
-5. Liferay 7.1 CE-GA3
+2. Liferay 7.0 CE-GA5+
+3. Liferay 7.1 CE-GA1+
 
 ### Features:
 * Enable or disable Two factor authentication.
@@ -46,3 +44,6 @@ Purpose of this plugin is to add an extra security layer for your Liferay Portal
 9. Once user enable this feature. After providing correct username/password portal should ask for verification code as shown below. 
 
 ![07_verify_otp_page](https://user-images.githubusercontent.com/27973508/63687136-66760f80-c821-11e9-8498-787389cabba8.JPG)
+
+Note : Please make sure SMTP settings are in place, it will be used to send recovery code in case user lost QR/Bar code. 
+
