@@ -47,3 +47,5 @@ Purpose of this plugin is to add an extra security layer for your Liferay Portal
 
 Note : Please make sure SMTP settings are in place, it will be used to send recovery code in case user lost QR/Bar code. 
 
+## Support
+   Please feel free to contact us on info@deltafixes.com for any issue/suggestions.
