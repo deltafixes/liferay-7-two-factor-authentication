@@ -11,7 +11,7 @@ Purpose of this plugin is to add an extra security layer for your Liferay Portal
 * Recovery option, if user lost security code.
 
 ## How to use
-1. Download and install Two factor authentication plugin on your server. Make sure plugin is properly deployed on server.
+1. [Download](https://web.liferay.com/marketplace/-/mp/application/169488626) and install Two factor authentication plugin on your server. Make sure plugin is properly deployed on server.
 
 2. Create public page name as configuration.
 
